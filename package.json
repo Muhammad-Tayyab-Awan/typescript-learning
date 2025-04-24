@@ -1,0 +1,30 @@
+{
+  "name": "typescript-learning",
+  "version": "1.0.0",
+  "description": "Learning Typescript",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Muhammad-Tayyab-Awan/typescript-learning.git"
+  },
+  "keywords": [
+    "learning",
+    "typescript",
+    "javascript",
+    "ts",
+    "js"
+  ],
+  "author": "Muhammad-Tayyab-Awan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Muhammad-Tayyab-Awan/typescript-learning/issues"
+  },
+  "homepage": "https://github.com/Muhammad-Tayyab-Awan/typescript-learning#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
