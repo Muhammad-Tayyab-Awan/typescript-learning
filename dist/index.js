@@ -1,5 +1,5 @@
 "use strict";
-function greet(name) {
-    return `Hello, ${name}!`;
+function sum(a, b) {
+    return a + b;
 }
-console.log(greet("TypeScript Learner"));
+sum(2, 1);
